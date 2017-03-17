@@ -1,2 +1,2 @@
 
-Program searches through database of zipcodes, town, states and populations using array 
+Program searches through database of zipcodes, town, states, and populations using array 
