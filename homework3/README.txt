@@ -1,1 +1,1 @@
-Program searches through database of zipcodes, town, states and populations using arraylist 
+Program searches through database of zipcodes, town, states, and populations using arraylist 
