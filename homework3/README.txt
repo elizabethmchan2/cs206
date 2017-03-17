@@ -1,2 +1,1 @@
-
-Program simulates printer queue with randomized task sizes and arrival times at printer 
+Program searches through database of zipcodes, town, states and populations using arraylist 
